@@ -1,3 +1,7 @@
+#To create the node_modules folder firstly we need to run the npm install command to run the frontend in your local device
+#Nextly after completion of your development, you can use npm run build, it will create an build folder, that contains all the build files in build folder. Nextly follow the below steps as it is to upload it to S3 buckets, that take static web pages
+
+
 # Full Stack Application with Spring Boot and React
 
 ![Architecture](react_00_architecture.png)
